@@ -9,7 +9,7 @@ I'm a senior **Language and Information Technology** major at **Chulalongkorn Un
 ## 🔨 **Skills & Technologies**  
 - **Machine Learning**: Scikit-learn, Keras, Fine-tuning models  
 - **Data Engineering**: Azure (Data Factory, Databricks, Synapse), Spark, ETL pipelines  
-- **Data Visualization**: MatplotLib, Power BI, Tableau  
+- **Data Visualization**: Matplotlib, Power BI, Tableau  
 - **Programming**: Python, SQL, R
 
   ## 🔗 **My Data Science Portfolio**  
