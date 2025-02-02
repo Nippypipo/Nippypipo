@@ -15,6 +15,9 @@ I'm a senior **Language and Information Technology** major at **Chulalongkorn Un
 - **Data Visualization**: MatplotLib, Power BI, Tableau  
 - **Programming**: Python, SQL, R
 
+  ## 🔗 **My Data Science Portfolio**  
+Check out my complete portfolio of data science projects: [**Data Science Portfolio**](https://github.com/Nippypipo/Data-Scientist-Portfolio)
+
 - ## 📌 **Connect with Me**  
 Feel free to connect or reach out for collaborations!  
 [LinkedIn](https://www.linkedin.com/in/nipun-angkavichai-935455253/)  
