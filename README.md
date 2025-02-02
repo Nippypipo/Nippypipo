@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Nipun!  
 
 I'm a senior **Language and Information Technology** major at **Chulalongkorn University**, passionate about **AI, Machine Learning, and Data Technology**. I specialize in leveraging cutting-edge technologies to solve real-world problems. My academic background in **Language Tech** and hands-on experience in **Natural Language Processing (NLP)** and **Machine Learning** allows me to bridge the gap between theoretical knowledge and practical applications.
