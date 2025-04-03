@@ -4,7 +4,7 @@ I'm a senior **Language and Information Technology** major at **Chulalongkorn Un
 
 ## 🌱 **What I'm Passionate About**  
 - Developing AI/ML solutions that provide actionable insights.  
-- Learning new techniques and methods in **AI/ML**, exploring large-scale data systems, and optimizing data pipelines.
+- Learning new techniques and methods in **AI/ML**.
 
 ## 🔨 **Skills & Technologies**  
 - **AI / Machine Learning**: Scikit-learn, Keras, HuggingFace, Langchain 
