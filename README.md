@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nipun!  
 
-I'm a senior **Language and Information Technology** major at **Chulalongkorn University**, passionate about **AI, Machine Learning, and Data Technology**. My academic background in **LangTech** and hands-on experience in **Data Science** allows me to bridge the gap between theoretical knowledge and practical applications.
+I'm a **Language and Information Technology** Graduate at **Chulalongkorn University**, passionate about **AI, Machine Learning, and Data Technology**. My academic background in **LangTech** and hands-on experience in **Data Science** allows me to bridge the gap between theoretical knowledge and practical applications.
 
 ## 🌱 **What I'm Passionate About**  
 - Developing AI/ML solutions that provide actionable insights.  
