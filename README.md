@@ -11,10 +11,11 @@ I'm a **Language and Information Technology** Graduate at **Chulalongkorn Univer
 - **Deep Learning 🤖:** DAN, RNN, CNN (TensorFlow/Keras, PyTorch)
 - **LLMs 🌐:** Fine-tuning, Prompt Engineering (Hugging Face Transformer, LangChain)
 - **Cloud Platform ☁️:** Google Cloud Platform (Data Analysis: GoogleBigQuery), Microsoft Azure Service (Data Engineering: Data Factory, Databricks, Synapse)
-- Programming 👨🏻‍💻: Python, PySpark, SQL, R
-- Data Analysis 📈: Pandas, Excel, Google Sheet
-- Visualization & BI 📊: Power BI, Tableau, Matplotlib
-- 
+- **Programming 👨🏻‍💻:** Python, PySpark, SQL, R
+- **Data Analysis 📈:** Pandas, Excel, Google Sheet
+- **Visualization & BI 📊:** Power BI, Tableau, Matplotlib
+
+
 ## 🔗 **My Data Science Portfolio**  
 Check out my complete portfolio of data science projects: [**Data Science Portfolio**](https://github.com/Nippypipo/Data-Scientist-Portfolio)
 
