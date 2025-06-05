@@ -7,12 +7,14 @@ I'm a **Language and Information Technology** Graduate at **Chulalongkorn Univer
 - Learning new techniques and methods in **AI/ML**.
 
 ## 🔨 **Skills & Technologies**  
-- **AI / Machine Learning**: Scikit-learn, Keras, HuggingFace, Langchain 
-- **Data Engineering**: Azure (Data Factory, Databricks, Synapse), Spark, ETL pipelines  
-- **Data Visualization**: Matplotlib, Power BI, Tableau
-- **Data analysis**: Pandas, Excel, Google Sheet
-- **Programming**: Python, SQL, R
-
+- **Machine Learning 🧠:** Regression, Classification, Clustering (scikit-learn)
+- **Deep Learning 🤖:** DAN, RNN, CNN (TensorFlow/Keras, PyTorch)
+- **LLMs 🌐:** Fine-tuning, Prompt Engineering (Hugging Face Transformer, LangChain)
+- **Cloud Platform ☁️:** Google Cloud Platform (Data Analysis: GoogleBigQuery), Microsoft Azure Service (Data Engineering: Data Factory, Databricks, Synapse)
+- Programming 👨🏻‍💻: Python, PySpark, SQL, R
+- Data Analysis 📈: Pandas, Excel, Google Sheet
+- Visualization & BI 📊: Power BI, Tableau, Matplotlib
+- 
 ## 🔗 **My Data Science Portfolio**  
 Check out my complete portfolio of data science projects: [**Data Science Portfolio**](https://github.com/Nippypipo/Data-Scientist-Portfolio)
 
